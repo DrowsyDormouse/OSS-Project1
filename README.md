@@ -3,5 +3,5 @@
 #include<stdio.h>
 int main()
 {
-  printf("세희야 내가왔");
+  printf("세희야 내가왔얼ㄹ");
 }
